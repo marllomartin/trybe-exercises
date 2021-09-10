@@ -1,0 +1,3 @@
+  438  clear
+  439  history | tail -3
+  440  history | tail -3 > comandos.txt 
