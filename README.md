@@ -3,84 +3,85 @@
 Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estudava na [Trybe](https://www.betrybe.com/)
 
 A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+
 O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
 
 ## Fundamentos do Desenvolvimento Web
 
 ##### Bloco 01: Unix & Bash
 
-- [ ] 1-3: _03: Fundamentos do Desenvolvimento Web_
-- [ ] 1-3: _03: Introdução - Unix & Shell_
-- [ ] 1-3: _03: Unix & Bash - Parte 1_
-- [ ] 1-4: _04: Unix & Bash - Parte 2_
+- [x] 1-3: _03: Fundamentos do Desenvolvimento Web_
+- [x] 1-3: _03: Introdução - Unix & Shell_
+- [x] 1-3: _03: Unix & Bash - Parte 1_
+- [x] 1-4: _04: Unix & Bash - Parte 2_
 
 ##### Bloco 02: Git, GitHub e Internet
 
-- [ ] 2-1: _01: Git & GitHub - O que é e para que serve_
-- [ ] 2-2: _02: Git & GitHub - Entendendo os comandos_
-- [ ] 2-3: _03: Internet - Entendendo como ela funciona_
+- [x] 2-1: _01: Git & GitHub - O que é e para que serve_
+- [x] 2-2: _02: Git & GitHub - Entendendo os comandos_
+- [x] 2-3: _03: Internet - Entendendo como ela funciona_
 
 ##### Bloco 03: Introdução à HTML e CSS
 
-- [ ] 3-1: _01: Introdução - HTML & CSS_
-- [ ] 3-1: _01: HTML & CSS - Estruturas de página_
-- [ ] 3-2: _02: HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _03: HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _04: HTML Semântico_
-- [ ] 3-5: _[05: Projeto - Lessons Learned]()_
+- [x] 3-1: _01: Introdução - HTML & CSS_
+- [x] 3-1: _01: HTML & CSS - Estruturas de página_
+- [x] 3-2: _02: HTML & CSS - Primeiros passos em CSS_
+- [x] 3-3: _03: HTML & CSS - Seletores e posicionamento_
+- [x] 3-4: _04: HTML Semântico_
+- [x] 3-5: _[05: Projeto - Lessons Learned]()_
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
-- [ ] 4-1: _01: Introdução - JavaScript_
-- [ ] 4-1: _01: JavaScript - Primeiros passos_
-- [ ] 4-2: _02: JavaScript - Array e loop For_
-- [ ] 4-3: _03: JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _04: JavaScript - Objetos e funções_
-- [ ] 4-5: _[05: Projeto - Playground Functions]()_
+- [x] 4-1: _01: Introdução - JavaScript_
+- [x] 4-1: _01: JavaScript - Primeiros passos_
+- [x] 4-2: _02: JavaScript - Array e loop For_
+- [x] 4-3: _03: JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-4: _04: JavaScript - Objetos e funções_
+- [x] 4-5: _[05: Projeto - Playground Functions]()_
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 5-1: _01: JavaScript - DOM e seletores_
-- [ ] 5-2: _02: JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _03: JavaScript - Eventos_
-- [ ] 5-4: _04: JavaScript - Web Storage_
-- [ ] 5-5: _05: Fundamentos - JavaScript - Projetos_
-- [ ] 5-5: _[05: Projeto - Arte com Pixels]()_
-- [ ] 5-6: _[06: Projeto - Lista de tarefas]()_
+- [x] 5-1: _01: JavaScript - DOM e seletores_
+- [x] 5-2: _02: JavaScript - Trabalhando com elementos_
+- [x] 5-3: _03: JavaScript - Eventos_
+- [x] 5-4: _04: JavaScript - Web Storage_
+- [x] 5-5: _05: Fundamentos - JavaScript - Projetos_
+- [x] 5-5: _[05: Projeto - Arte com Pixels]()_
+- [x] 5-6: _[06: Projeto - Lista de tarefas]()_
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 6-1: _01: HTML & CSS - Forms_
-- [ ] 6-2: _02: Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-2: _02: Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _03: Introdução - CSS Flexbox_
-- [ ] 6-3: _03: CSS Flexbox - Parte 1_
-- [ ] 6-4: _04: CSS Flexbox - Parte 2_
-- [ ] 6-5: _05: CSS Responsivo - Mobile First_
-- [ ] 6-6: _[06: Projeto - Trybewarts]()_
+- [x] 6-1: _01: HTML & CSS - Forms_
+- [x] 6-2: _02: Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6-2: _02: Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6-3: _03: Introdução - CSS Flexbox_
+- [x] 6-3: _03: CSS Flexbox - Parte 1_
+- [x] 6-4: _04: CSS Flexbox - Parte 2_
+- [x] 6-5: _05: CSS Responsivo - Mobile First_
+- [x] 6-6: _[06: Projeto - Trybewarts]()_
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] 7-1: _01: JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _02: JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 7-3: _03: Primeiros passos em Jest_
-- [ ] 7-4: _[04: Projeto - JavaScript Testes Unitários]()_
+- [x] 7-1: _01: JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _02: JavaScript ES6 - Fluxo de exceção e Objetos_
+- [x] 7-3: _03: Primeiros passos em Jest_
+- [x] 7-4: _[04: Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
-- [ ] 8-1: _01: JavaScript ES6 - Introdução a Higher Order Functions_
-- [ ] 8-2: _02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-3: _03: JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-4: _04: JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-5: _05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [ ] 8-6: _[06: Projeto - Zoo functions]()_
+- [x] 8-1: _01: JavaScript ES6 - Introdução a Higher Order Functions_
+- [x] 8-2: _02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-3: _03: JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8-4: _04: JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-5: _05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [x] 8-6: _[06: Projeto - Zoo functions]()_
 
 ##### Bloco 09: JavaScript e Testes Assíncronos
 
-- [ ] 9-1: _01: JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _02: JavaScript Assíncrono - Fetch API e async/await_
-- [ ] 9-3: _03: Jest - Testes Assíncronos_
-- [ ] 9-4: _[04: Projeto - Carrinho de Compras]()_
+- [x] 9-1: _01: JavaScript Assíncrono e Callbacks_
+- [x] 9-2: _02: JavaScript Assíncrono - Fetch API e async/await_
+- [x] 9-3: _03: Jest - Testes Assíncronos_
+- [x] 9-4: _[04: Projeto - Carrinho de Compras]()_
 
 ## Desenvolvimento Front-end
 
