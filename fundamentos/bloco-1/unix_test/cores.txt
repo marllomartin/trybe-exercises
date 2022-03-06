@@ -1,9 +1,0 @@
-amarelo
-laranja
-vermelho
-preto
-branco
-cinza
-dourado
-verde
-lilás
