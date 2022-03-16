@@ -1,0 +1,17 @@
+{
+  "name": "22.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "imc": "node ./scripts/imc.js",
+    "jogo": "node ./scripts/jogo.js",
+    "velocidade": "node ./scripts/velocidade.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marllon Martins",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
