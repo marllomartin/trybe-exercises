@@ -1,7 +1,8 @@
 # Sobre:
-
 Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estudava na [Trybe](https://www.betrybe.com/)
-
+<p align="center">
+<img src="https://monophy.com/media/AbxJ4Qy09NX5i2HgQU/monophy.gif" width="15%" height="15%"/>
+</p>
 A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
@@ -83,95 +84,95 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 - [x] 9-3: _03: Jest - Testes Assíncronos_
 - [x] 9-4: _[04: Projeto - Carrinho de Compras]()_
 
-## Desenvolvimento Front-end
+## Desenvolvimento Front-End
 
 ##### Bloco 10: Introdução à React
 
-- [ ] 10-1: _01: Introdução - Front-end_
-- [ ] 10-1: _01: Introdução - React_
-- [ ] 10-1: _01: 'Hello, world!' no React!_
-- [ ] 10-2: _02: Componentes React_
-- [ ] 10-3: _[03: Projeto - Sistema Solar]()_
+- [x] 10-1: _01: Introdução - Front-end_
+- [x] 10-1: _01: Introdução - React_
+- [x] 10-1: _01: 'Hello, world!' no React!_
+- [x] 10-2: _02: Componentes React_
+- [x] 10-3: _[03: Projeto - Sistema Solar]()_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _01: Componentes com estado e eventos_
-- [ ] 11-2: _02: Formulários no React_
-- [ ] 11-3: _[03: Projeto - Tryunfo]()_
+- [x] 11-1: _01: Componentes com estado e eventos_
+- [x] 11-2: _02: Formulários no React_
+- [x] 11-3: _[03: Projeto - Tryunfo]()_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12-1: _01: Ciclo de vida de componentes_
-- [ ] 12-2: _02: React Router_
-- [ ] 12-3: _[03: Projeto - TrybeTunes]()_
+- [x] 12-1: _01: Ciclo de vida de componentes_
+- [x] 12-2: _02: React Router_
+- [x] 12-3: _[03: Projeto - TrybeTunes]()_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1: _01: Metodologias Ágeis_
-- [ ] 13-2: _[02: Projeto - Frontend Online Store]()_
+- [x] 13-1: _01: Metodologias Ágeis_
+- [x] 13-2: _[02: Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14-1: _01: RTL - Primeiros passos_
-- [ ] 14-2: _02: RTL - Mocks e Inputs_
-- [ ] 14-3: _03: RTL - Testando React Router_
-- [ ] 14-4: _[04: Projeto - Testes em React]()_
+- [x] 14-1: _01: RTL - Primeiros passos_
+- [x] 14-2: _02: RTL - Mocks e Inputs_
+- [x] 14-3: _03: RTL - Testando React Router_
+- [x] 14-4: _[04: Projeto - Testes em React]()_
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15-1: _01: Introdução ao Redux - O estado global da aplicação_
-- [ ] 15-2: _02: Usando o Redux no React_
-- [ ] 15-3: _03: Usando o Redux no React - Prática_
-- [ ] 15-4: _04: Usando o Redux no React - Actions Assíncronas_
-- [ ] 15-5: _05: Testes em React-Redux_
-- [ ] 15-6: _[06: Projeto - Trybe Wallet]()_
+- [x] 15-1: _01: Introdução ao Redux - O estado global da aplicação_
+- [x] 15-2: _02: Usando o Redux no React_
+- [x] 15-3: _03: Usando o Redux no React - Prática_
+- [x] 15-4: _04: Usando o Redux no React - Actions Assíncronas_
+- [x] 15-5: _05: Testes em React-Redux_
+- [x] 15-6: _[06: Projeto - Trybe Wallet]()_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 16-1: _[01: Projeto - Jogo de Trivia]()_
+- [x] 16-1: _[01: Projeto - Jogo de Trivia]()_
 
 ##### Bloco 17: Context API e React Hooks
 
-- [ ] 17-1: _01: Context API do React_
-- [ ] 17-2: _02: React Hooks - useState e useContext_
-- [ ] 17-3: _03: React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[04: Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-1: _01: Context API do React_
+- [x] 17-2: _02: React Hooks - useState e useContext_
+- [x] 17-3: _03: React Hooks - useEffect e Hooks customizados_
+- [x] 17-4: _[04: Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _[01: Projeto - App de Receitas]()_
+- [x] 18-1: _[01: Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-End
 
 ##### Bloco 19: Docker: Utilizando Containers
 
-- [ ] 19-1: _01: Introdução - Back-end_
-- [ ] 19-1: _01: Utilizando Containers - Docker_
-- [ ] 19-2: _02: Manipulação e Criação de Imagens no Docker_
-- [ ] 19-3: _03: Orquestrando Containers com Docker Compose_
-- [ ] 19-4: _[04: Projeto - Docker Todo-List]()_
+- [x] 19-1: _01: Introdução - Back-end_
+- [x] 19-1: _01: Utilizando Containers - Docker_
+- [x] 19-2: _02: Manipulação e Criação de Imagens no Docker_
+- [x] 19-3: _03: Orquestrando Containers com Docker Compose_
+- [x] 19-4: _[04: Projeto - Docker Todo-List]()_
 
 ##### Bloco 20: Introdução à SQL
 
-- [ ] 20-1: _01: Introdução - Bancos de dados relacionais_
-- [ ] 20-1: _01: Banco de dados SQL_
-- [ ] 20-2: _02: Encontrando dados em um banco de dados_
-- [ ] 20-3: _03: Filtrando dados de forma específica_
-- [ ] 20-4: _04: Manipulando tabelas_
-- [ ] 20-5: _[05: Projeto - All For One]()_
+- [x] 20-1: _01: Introdução - Bancos de dados relacionais_
+- [x] 20-1: _01: Banco de dados SQL_
+- [x] 20-2: _02: Encontrando dados em um banco de dados_
+- [x] 20-3: _03: Filtrando dados de forma específica_
+- [x] 20-4: _04: Manipulando tabelas_
+- [x] 20-5: _[05: Projeto - All For One]()_
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
-- [ ] 21-1: _01: Funções mais usadas no SQL_
-- [ ] 21-2: _02: Descomplicando JOINs_
-- [ ] 21-3: _03: Transformando ideias em um modelo de banco de dados_
-- [ ] 21-4: _[04: Aula ao vivo + Projeto - One For All]()_
+- [x] 21-1: _01: Funções mais usadas no SQL_
+- [x] 21-2: _02: Descomplicando JOINs_
+- [x] 21-3: _03: Transformando ideias em um modelo de banco de dados_
+- [x] 21-4: _[04: Aula ao vivo + Projeto - One For All]()_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 22-1: _01: Intro - Node.js_
-- [ ] 22-1: _01: Node.js - Um motor JavaScript_
-- [ ] 22-2: _02: Node.js - Fluxo Assíncrono_
+- [x] 22-1: _01: Intro - Node.js_
+- [x] 22-1: _01: Node.js - Um motor JavaScript_
+- [x] 22-2: _02: Node.js - Fluxo Assíncrono_
 - [ ] 22-3: _03: Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [ ] 22-4: _04: Express - HTTP com Node.js_
 - [ ] 22-5: _05: Express - Middlewares_
@@ -242,7 +243,7 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 - [ ] 32-1: _[01: Projeto - App de Delivery]()_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação
 
 ##### Bloco 33: Introdução à Python
 
