@@ -175,8 +175,8 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 - [x] 22-2: _02: Node.js - Fluxo Assíncrono_
 - [x] 22-3: _03: Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [x] 22-4: _04: Express - HTTP com Node.js_
-- [ ] 22-5: _05: Express - Middlewares_
-- [ ] 22-6: _[06: Projeto - Talker Manager]()_
+- [x] 22-5: _05: Express - Middlewares_
+- [x] 22-6: _[06: Projeto - Talker Manager]()_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
