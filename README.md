@@ -9,7 +9,7 @@ Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estu
 <p>A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
 <p>O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</p>
 
-### Fundamentos do Desenvolvimento Web
+## Fundamentos do Desenvolvimento Web
 
 ##### Bloco 01: Unix & Bash
 
@@ -86,7 +86,7 @@ Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estu
 - [x] 9-3: _03: Jest - Testes Assíncronos_
 - [x] 9-4: _[04: Projeto - Carrinho de Compras]()_
 
-### Desenvolvimento Front-End
+## Desenvolvimento Front-End
 
 ##### Bloco 10: Introdução à React
 
@@ -144,7 +144,7 @@ Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estu
 
 - [x] 18-1: _[01: Projeto - App de Receitas]()_
 
-### Desenvolvimento Back-End
+## Desenvolvimento Back-End
 
 ##### Bloco 19: Docker: Utilizando Containers
 
@@ -245,7 +245,7 @@ Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estu
 
 - [ ] 32-1: _[01: Projeto - App de Delivery]()_
 
-### Ciência da Computação
+## Ciência da Computação
 
 ##### Bloco 33: Introdução à Python
 
