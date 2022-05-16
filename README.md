@@ -1,4 +1,7 @@
-# Sobre:
+
+# Trybe Exercises
+
+## Sobre
 Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estudava na [Trybe](https://www.betrybe.com/)
 <p align="center">
 <img src="https://monophy.com/media/AbxJ4Qy09NX5i2HgQU/monophy.gif" width="15%" height="15%"/>
