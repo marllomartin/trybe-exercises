@@ -6,7 +6,7 @@ Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estu
 <p align="center">
 <img src="https://i.imgur.com/Lhmutjy.png"/>
 </p>
-<p>A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
+<p>A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
 <p>O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</p>
 
 ## Fundamentos do Desenvolvimento Web
