@@ -1,11 +1,13 @@
-# Sobre:
+
+# Trybe Exercises
+
+## Sobre
 Este repositório agrupa todas as atividades desenvolvidas por mim enquanto estudava na [Trybe](https://www.betrybe.com/)
 <p align="center">
-<img src="https://monophy.com/media/AbxJ4Qy09NX5i2HgQU/monophy.gif" width="15%" height="15%"/>
+<img src="https://i.imgur.com/Lhmutjy.png"/>
 </p>
-A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas presenciais e on-line e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
-
-O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
+<p>A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia. O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
+<p>O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecnologia do Brasil e do mundo e ao longo da formação estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.</p>
 
 ## Fundamentos do Desenvolvimento Web
 
@@ -175,8 +177,8 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 - [x] 22-2: _02: Node.js - Fluxo Assíncrono_
 - [x] 22-3: _03: Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [x] 22-4: _04: Express - HTTP com Node.js_
-- [ ] 22-5: _05: Express - Middlewares_
-- [ ] 22-6: _[06: Projeto - Talker Manager]()_
+- [x] 22-5: _05: Express - Middlewares_
+- [x] 22-6: _[06: Projeto - Talker Manager]()_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
